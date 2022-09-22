@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, and I'm at the very beginning of my journey
 - 💞️ I’m looking for assistance on how to scrape client data from a Teamup calendar
 - 📫 You can reach me at stemediting3@gmail.com or through this site
+- I'm looking forward to helping however I can
 
 <!---
 kmkieva/kmkieva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
